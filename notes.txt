@@ -1,0 +1,16 @@
+7 layers of networking
+-application layer
+-presentation layer
+-session layer
+-transport layer
+-network layer
+-data link layer
+-physical layer
+
+top to bottom (application to physical)
+
+All People Seem To Need Data Processing
+
+Or, if you prefer bottom to top (Physical to Application):
+
+Please Do Not Throw Sausage Pizza Away
