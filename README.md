@@ -9,3 +9,5 @@ Day-2 Git and github
 - pull request
 - remote repo
 - fork
+- merge conflict
+- squashing commits
