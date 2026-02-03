@@ -1,0 +1,3 @@
+handson practice of git  basic commands like git init, git status, git add and git commit 
+made 2 repos one origin and one forked 
+practiced branching
