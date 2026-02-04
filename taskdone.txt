@@ -2,3 +2,11 @@ handson practice of git  basic commands like git init, git status, git add and g
 made 2 repos one origin and one forked 
 practiced branching
 merge conflict
+Networking concepts
+	-ip ,ipv4,ipv6
+	-protocols
+	-port numbers
+	-OSI model
+	-TCP/IP model etc
+hands on linux basic networking commands
+
