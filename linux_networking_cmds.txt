@@ -5,3 +5,9 @@
 5.ip route - show routes / rules
 6.dig <ip address> - to see info or details
 7.iperf3 -s - tool used to test network speed
+8. traceroute <hostname> - to see the path (Hop by Hop)
+9.arp -a - to see ip to mac mapping
+10.nslookup <hostname> - to see DNS
+11.ss -tuln (netstat -tuln) - to see active connection
+
+
