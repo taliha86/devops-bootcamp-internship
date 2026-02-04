@@ -9,5 +9,15 @@
 9.arp -a - to see ip to mac mapping
 10.nslookup <hostname> - to see DNS
 11.ss -tuln (netstat -tuln) - to see active connection
+12.cat /var/lib/dhcp/dhclient.leases - to check DHCP lease
+13.sudo tcpdump - packet Sniffing
+14.sudo ufw status - to check firewall status
+15.sudo ufw deny icmp - to deny or block ping
+16.sudo ufw allow icmp - to allow
+17.curl google.com - Test web
+18.ip link show - to see interface(physical/datalink layer)
+19.sudo ip link set wlan0 down - turn off network
+20.sudo ip link set wlan0 up - turn on
+
 
 
