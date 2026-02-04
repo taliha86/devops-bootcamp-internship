@@ -1,0 +1,7 @@
+1.ping <ip address or hostname> - to check connection
+2.ssh <hostname to connect> - to connect remotely to other system
+3.ip address - list details
+4.ip a - show devices ip address
+5.ip route - show routes / rules
+6.dig <ip address> - to see info or details
+7.iperf3 -s - tool used to test network speed
