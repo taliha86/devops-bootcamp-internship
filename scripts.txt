@@ -41,3 +41,29 @@ sleep 2
 
 getrich=$((($RANDOM % 15) + $age ))
 echo "final result: $getrich" 
+
+!/bin/bash
+
+
+#first battle
+echo "Choose 0 or 1"
+read num
+beast=$(( $RANDOM % 2 ))
+if [[ $num == $beast && 47 > 22 ]]; then
+        echo "You Won!"
+else 
+        echo "You Died!!!"
+        exit 1
+fi
+sleep 2
+#second battle
+echo "ready for second battle , choose between 1 to 10"
+read num2
+margrit=$(( $RANDOM % 11 ))
+if [[ $num2 == $margrit || $num2 == "Tea" ]]; then
+        echo "You Won!!"
+elif [[ "$USER" == "kc-internal" ]]; then
+        echo "you always win!!!1"
+else
+        echo "You Died!!"
+fi
