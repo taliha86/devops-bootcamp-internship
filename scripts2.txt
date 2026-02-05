@@ -1,0 +1,83 @@
+#!/bin/bash
+echo "analysis of log files"
+echo "====================="
+echo "list of files updated last 24hr"
+sleep 1
+find . -name "*.log" -mtime -1
+sleep 1
+echo "application error logs and their count"
+grep -i "ERROR" application.log
+grep -c "ERROR" application.log
+sleep 1
+echo "==============================="
+grep -i "INFO" application.log
+grep -c "INFO" application.log
+echo "==============================="
+sleep 1
+echo "system kernel logs and their count" 
+grep -i "kernel" system.log
+grep -c "kernel" system.log
+sleep 1
+echo "==============================="
+grep -i "CRITICAL" system.log
+
+#script2
+#!/bin/bash
+
+echo "System Information"
+sleep 1
+
+echo "Hostname: $(hostname)"
+echo "uptime: $(uptime -p)"
+echo "current user: $(whoami)"
+
+sleep 1
+echo "Disk Usage"
+df -h /
+
+sleep 1
+echo "==Memory usage=="
+free -h
+echo "======================="
+
+#script3
+#!/bin/bash
+
+THRESHOLD=80
+
+USAGE=$(df / | tail -1 | awk '{print $5}' | sed 's/%//')
+
+if [[ "$USAGE" -ge "$THRESHOLD" ]]; then
+        echo "Warning: Disk usage is above ${THRESHOLD}% Current usage: ${USAGE}%" 
+else
+        echo "Disk usage is under control: ${USAGE}%"
+fi
+
+#script4
+#!/bin/bash
+
+PROCESS_NAME="ssh"
+
+if ps -ef | grep "$PROCESS_NAME" | grep -v grep > /dev/null
+then
+echo "Process '$PROCESS_NAME' is running"
+else
+        echo "process is not running"
+fi 
+
+#script5
+#!/bin/bash
+
+if [ -z "$1" ]; then
+        echo "Usage: $0 <directory_to_backup>"
+        exit 1
+fi
+DIR_TO_BACKUP=$1
+BACKUP_NAME="backup_$(date +%Y-%m-%d_%H-%M-%S).tar.gz"
+tar -czf "$BACKUP_NAME" "$DIR_TO_BACKUP"
+
+if [ $? -eq 0 ]; then
+        echo "Backup Successfull: $BACKUP_NAME"
+else
+        echo "Backup failed!"
+fi

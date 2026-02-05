@@ -1,0 +1,56 @@
+#!/bin/bash
+
+LOG_DIR="./logs"
+SERVICES=("ssh" "cron" "docker")
+
+# ---------- FUNCTION 1: FOR LOOP (check multiple services) ----------
+check_services() {
+    echo "Checking services..."
+    for service in "${SERVICES[@]}"
+    do
+        if pgrep "$service" > /dev/null
+        then
+            echo "Service '$service' is running"
+        else
+            echo "Service '$service' is NOT running"
+        fi
+    done
+}
+
+# ---------- FUNCTION 2: WHILE LOOP (clean old logs) ----------
+clean_logs() {
+    echo "Cleaning old log files..."
+    count=0
+    while [ $count -lt 3 ]
+    do
+        touch "$LOG_DIR/log_$count.txt"
+        count=$((count + 1))
+    done
+
+    echo "Log files created. Now deleting them..."
+    rm -f $LOG_DIR/*.txt
+    echo "Old logs cleaned"
+}
+
+# ---------- FUNCTION 3: UNTIL LOOP (retry backup until success) ----------
+backup_with_retry() {
+    SRC_DIR=$1
+    BACKUP_FILE="backup_$(date +%H-%M-%S).tar.gz"
+
+    until tar -czf "$BACKUP_FILE" "$SRC_DIR" 2>/dev/null
+    do
+        echo "Backup failed, retrying..."
+        sleep 2
+    done
+
+    echo "Backup successful: $BACKUP_FILE"
+}
+
+# ---------- MAIN ----------
+mkdir -p "$LOG_DIR"
+
+check_services
+clean_logs
+backup_with_retry "data"
+
+echo "Automation tasks completed."
