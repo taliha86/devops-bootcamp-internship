@@ -1,0 +1,24 @@
+#!/bin/bash
+#script1
+name=$1
+comp=$2
+user=$(whoami)
+directory=$(pwd)
+date=$(date)
+
+echo "hello $name"
+
+sleep 1
+
+echo "its not a good day today,$name"
+
+sleep 1
+
+echo "we can still make the rest day $comp,$name"
+
+sleep 2
+ echo "you are curretly logged in as $user"
+sleep 1
+echo "you are in $directory directory"
+sleep 1
+echo "today's date is $date"
