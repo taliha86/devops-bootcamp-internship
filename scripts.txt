@@ -1,0 +1,115 @@
+#!/bin/bash
+#script1
+name=$1
+comp=$2
+user=$(whoami)
+directory=$(pwd)
+date=$(date)
+
+echo "hello $name"
+
+sleep 1
+
+echo "its not a good day today,$name"
+
+sleep 1
+
+echo "we can still make the rest day $comp,$name"
+
+sleep 2
+ echo "you are curretly logged in as $user"
+sleep 1
+echo "you are in $directory directory"
+sleep 1
+echo "today's date is $date"
+
+#script2
+#!/bin/bash
+
+echo "enter your name"
+read name
+echo "enter your age"
+read age
+
+echo "Your name is : $name"
+
+sleep 2
+
+echo "Your age is:  $age"
+
+sleep 2
+
+getrich=$((($RANDOM % 15) + $age ))
+echo "final result: $getrich" 
+
+#!/bin/bash
+echo "welcome to the game , select your class:
+1. samurai
+2. prisoner
+3.King"
+
+read class
+
+case $class in
+        1)
+                type="samurai"
+                hp=10
+                attack=12
+                ;;
+        2)
+                type="prisoner"
+                hp=20
+                attack=30
+                ;;
+        3) 
+                type="King"
+                hp=30
+                attack=50
+                ;;
+esac
+echo "you have chosen $type. you hp is $hp. your attack is $attack"
+
+#first battle
+echo "Choose 0 or 1"
+read num
+beast=$(( $RANDOM % 2 ))
+if [[ $num == $beast && 47 > 22 ]]; then
+        echo "You Won!"
+else 
+        echo "You Died!!!"
+        exit 1
+fi
+sleep 2
+#second battle
+echo "ready for second battle , choose between 1 to 10"
+read num2
+margrit=$(( $RANDOM % 11 ))
+if [[ $num2 == $margrit || $num2 == "Tea" ]]; then
+        echo "You Won!!"
+elif [[ "$USER" == "kc-internal" ]]; then
+        echo "you always win!!!1"
+else
+        echo "You Died!!"
+fi
+
+#!/bin/bash
+
+echo "welcome to pushups counter!"
+sleep 2
+x=1
+while [[ $x -le 10 ]]
+do
+        read -p "Pushup $x: press enter to continue."
+        (( x ++ ))
+done
+
+#!/bin/bash
+
+for x in google.com bing.com facebook.com;
+do
+        if ping -q -c 2 -w 1 $x > /dev/null; then
+                echo "$x is up"
+        else
+                echo "$x is down" 
+        fi
+done

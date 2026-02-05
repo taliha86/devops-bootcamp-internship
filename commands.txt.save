@@ -1,0 +1,13 @@
+- ls : list all files and directories
+- mkdir : to make directory
+- cd: to change directory
+- cd .. : to  go to previous directory
+- echo $PATH : to see environment variables
+- ls -a : list hidden files(starts with .)
+- pwd : present working directory
+- ls -l : list files with more details
+- ls -R : list all files recursively
+-pwd command – Present Working 
+- cat command – Shows content of a file.
+- echo command – Shows the desired string or value.
+- man command – Tells about all commands.

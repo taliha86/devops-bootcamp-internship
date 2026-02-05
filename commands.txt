@@ -55,3 +55,42 @@ Options:
 -l → lists all files with that string specified
 - history command – History of command usage.
 - alias command –Instructs shell to replace one string with another string while executing the command.
+- Terminal Shortcuts
+• Ctrl + A – Move cursor to first
+• Ctrl + E – Move cursor to end
+• Ctrl + K – Removes everything after cursor
+• Ctrl + U – Removes everything
+• Tab – Auto-completion
+• ! (no. in history) – Bring the command from history
+• Ctrl + R – Search for previous commands
+• Cmd + K – Clear
+
+- sort command – Sorts everything within the file.
+- jobs command – Processes running are shown.
+- ping command – Connects to server and receives packet.
+- wget command – Downloader.
+- top command – Softwares running are shown.
+- uname command – Kernel name.
+- zip command – Creates compressed file.
+- unzip command – Unzips file.
+- hostname command – Obtain DNS name and information.
+- useradd command – Adds user.
+- userdel command – Removes user.
+- lscpu command – CPU details
+- free command – Free memory checking
+- vmstat command – Virtual memory checking
+- id command – See groups
+- getent command – Checks if a user exists
+- lsof command – List all the open files
+- nslookup command – To check IP of a domain
+- netstat command – Active ports
+- sed command – Stream editor (logs)
+- cut command – Cut out selected portions of each line of a file
+- htop command – Shows resource consumptions
+
+- Operators
+&& – AND
+|| – OR
+! – NOT
+>> – Append
+> – Override (overwrite)
