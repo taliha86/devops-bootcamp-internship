@@ -42,8 +42,32 @@ sleep 2
 getrich=$((($RANDOM % 15) + $age ))
 echo "final result: $getrich" 
 
-!/bin/bash
+#!/bin/bash
+echo "welcome to the game , select your class:
+1. samurai
+2. prisoner
+3.King"
 
+read class
+
+case $class in
+        1)
+                type="samurai"
+                hp=10
+                attack=12
+                ;;
+        2)
+                type="prisoner"
+                hp=20
+                attack=30
+                ;;
+        3) 
+                type="King"
+                hp=30
+                attack=50
+                ;;
+esac
+echo "you have chosen $type. you hp is $hp. your attack is $attack"
 
 #first battle
 echo "Choose 0 or 1"
