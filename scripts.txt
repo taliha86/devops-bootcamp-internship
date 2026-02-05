@@ -22,3 +22,22 @@ sleep 1
 echo "you are in $directory directory"
 sleep 1
 echo "today's date is $date"
+
+#script2
+#!/bin/bash
+
+echo "enter your name"
+read name
+echo "enter your age"
+read age
+
+echo "Your name is : $name"
+
+sleep 2
+
+echo "Your age is:  $age"
+
+sleep 2
+
+getrich=$((($RANDOM % 15) + $age ))
+echo "final result: $getrich" 
