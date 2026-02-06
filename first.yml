@@ -1,0 +1,29 @@
+"apple" : "this is a red fruit"
+"banana" : "this is a yellow fruit"
+
+#lists
+fruits:
+ - apple
+ - mango
+ - banana
+---
+fruits2: [apple, mango, banana]
+ports:
+ - 80
+ - 443
+ - 8080
+---
+containers:
+ - name : nginx
+   image : nginx-latest
+ - name : redis
+   image : redis-alpine
+---
+servers:
+ - name : web1
+   ports :
+      - 80
+      - 443
+ - name : db1
+   ports : 
+      - 3306
