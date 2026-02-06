@@ -11,4 +11,12 @@ Day-2 Git and github
 - fork
 - merge conflict
 - squashing commits
-
+Day-3: Complete Networking
+-protocols
+-port numbers
+-topologies
+-OSI model
+-TCP/IP model
+-DNS 
+-IPv4/IPv6
+-linux networking commands
