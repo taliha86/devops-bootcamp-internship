@@ -1,0 +1,43 @@
+#string datatypes
+name: Taliha
+surname: "Mansuri"
+job: 'devops'
+bio: |
+ hii i am taliha.
+ i am a devops intern.
+
+#write a single line in multiple line
+message: >
+ this will
+ all  be
+ in one single line.
+#same as
+message2: !!str this will all  be in one single line.
+#all are string variables
+#specifying the type
+number: !!int 0
+negativenum : !!int -45
+binarynum : !!int 01100
+octalnum : !!int 06578
+Hexanum: !!int 0x45
+commaValue: !!int +540_000 # 540,000
+exponential numbers: 6.023E56
+---
+# floating point numbers
+marks: !!float 56.89
+infinite: !!float .inf
+not a num: .nan
+---
+booleanValue: !!bool No # n, N, false, False, FALSE
+# same for true -> yes, y, Y
+---
+#null
+surname2 : !!null NULL
+~ : this is a null key
+---
+#dates and time
+date : !!timestamp 2026-02-06
+india time : 2026-02-06 09:30:00 -05:00
+no time zone : 2026-02-06T14:30
+
+
