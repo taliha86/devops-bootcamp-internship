@@ -1,96 +1,11 @@
-- ls command – Lists all the directories / files.
-- mkdir command – Makes a new directory.
-- cd command – Changes directory.
-- cd .. command – Go back to previous directory.
-- ls -a command – Lists hidden files (starts with .)
-- pwd command – Present Working Directory.
-- ls -l command – Lists files with more details.
-- ls -R command – List all files from sub-dirs too.
-- cat command – Shows content of a file.
-- echo command – Shows the desired string or value.
-- man command – Tells about all commands.
-tr command – Translates a file.
-For eg:
-cat file.txt
-Hello World
-cat file.txt | tr a-z A-Z > upper.txt
-cat upper.txt
-HELLO WORLD
-- touch command – Creates a file.
-- cp command – Copy files.
-- mv command – Move files.
-- rm command – Removes file permanently.
-- cp -R command – Copy directory.
-- mv -R command – Move directory.
-- rm -R command – Removes directory permanently.
-- sudo command – Administrative commands (Password).
-- df command – Disk Availability.
-- du command – Shows size of directories.
-- head command – Displays first 10 lines.
-- tail command – Displays last 10 lines.
-- diff command – Compares file line by line and prints the differences.
-- locate command – Finds out files (returns directory).
-- find command – Shows all present files (according to requirement).
-Permissions –
-• Read
-• Write
-• Execute
-- chmod command – To control permissions
-4 (read) + 2 (write) + 1 (execute)
-For eg:
-- chmod 777 index.txt
--rwx rwx rwx
-- chmod 577 index.txt
--r-x rwx rwx
-- chmod 500 index.txt
--r-x ----- -----
-- chown command – To change the file owner / group.
-- grep command – Search for a string in groups of files.
-Options:
--w → completes the word
--i → ignores case-sensitivity
--n → line number
--r → searches in sub-directories too
--c → count for number of appearance
--l → lists all files with that string specified
-- history command – History of command usage.
-- alias command –Instructs shell to replace one string with another string while executing the command.
-- Terminal Shortcuts
-• Ctrl + A – Move cursor to first
-• Ctrl + E – Move cursor to end
-• Ctrl + K – Removes everything after cursor
-• Ctrl + U – Removes everything
-• Tab – Auto-completion
-• ! (no. in history) – Bring the command from history
-• Ctrl + R – Search for previous commands
-• Cmd + K – Clear
+Docker commands
+- docker --version : to verify docker version
+- docker images : to list docker images
+- docker pull <imagename> : to pull docker image from docker hub
+- docker rmi <image-id> : to remove image
+- docker run -d -p 8080:80 <imagename> : to run image as container
+- docker ps : to see running containers
+- docker stop <container-id> : to stop running container
+- docker rm  <container-id> : to remove container
+- docker build -t myapp . : to build container  from your own image
 
-- sort command – Sorts everything within the file.
-- jobs command – Processes running are shown.
-- ping command – Connects to server and receives packet.
-- wget command – Downloader.
-- top command – Softwares running are shown.
-- uname command – Kernel name.
-- zip command – Creates compressed file.
-- unzip command – Unzips file.
-- hostname command – Obtain DNS name and information.
-- useradd command – Adds user.
-- userdel command – Removes user.
-- lscpu command – CPU details
-- free command – Free memory checking
-- vmstat command – Virtual memory checking
-- id command – See groups
-- getent command – Checks if a user exists
-- lsof command – List all the open files
-- nslookup command – To check IP of a domain
-- netstat command – Active ports
-- sed command – Stream editor (logs)
-- cut command – Cut out selected portions of each line of a file
-- htop command – Shows resource consumptions
-
-- Operators
-&& – AND
-|| – OR
-! – NOT
->> – Append
-> – Override (overwrite)
