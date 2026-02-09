@@ -17,6 +17,38 @@ Day-3: Complete Networking
 -topologies
 -OSI model
 -TCP/IP model
--DNS 
+-DNS
+
+Day-4 Linux Terminal commands
+-File & Directory Management
+-User & Permission Management
+-Package Management
+-Help & Command Info
+-Disk & Storage
+-Process & System Monitoring
+-Bash Scripting 
 -IPv4/IPv6
 -linux networking commands
+
+Day-5 YAML 
+- how to create YAML files
+- datatypes
+- blocks
+- working with JS
+- Reusing properties with anchors
+- Real world examples
+- Storing data in XML
+- Storing data in JSON
+- YAML DevOps tools
+- overview of Yaml tools (datree,lens)
+
+Day-6 Docker
+- what is docker?
+- installation
+- running docker on linux
+- accessing docker image
+- creating docker image
+- diff. Between dockerfile and image
+- docker cli
+- docker desktop
+- architecture of docker engine
