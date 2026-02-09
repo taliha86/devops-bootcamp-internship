@@ -13,5 +13,7 @@ Docker commands
 - docker inspect <image id> : to inspect image in detail
 - docker logs : to see  logs
 - docker container prune -f : to delete all the stopped container forcefully
--docker commit -m "msg" <conatinerid> <newimagename> : building own image from container after editing the original container
--docker rmi $(docker images -q) : to remove all images
+- docker commit -m "msg" <conatinerid> <newimagename> : building own image from container after editing the original container
+- docker rmi $(docker images -q) : to remove all images
+- docker build -t <imagename> <path or . for current dir> : to build image from Dockerfile
+
