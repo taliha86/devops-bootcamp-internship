@@ -5,7 +5,11 @@ Docker commands
 - docker rmi <image-id> : to remove image
 - docker run -d -p 8080:80 <imagename> : to run image as container
 - docker ps : to see running containers
+- docker ps -a : to see running and stopped containers
 - docker stop <container-id> : to stop running container
 - docker rm  <container-id> : to remove container
 - docker build -t myapp . : to build container  from your own image
-
+- docker exec -it <containerid> : to go inside container
+- docker inspect <image id> : to inspect image in detail
+- docker logs : to see  logs
+- docker container prune -f : to delete all the stopped container forcefully
