@@ -1,0 +1,16 @@
+Kubectl commands
+- kubectl version : displays the version
+- kubectl version -o yaml: provides version in more readbale yaml format
+- kubectl config view : shows config and info needed to access cluster
+- kubectl config get-contexts : Shows the current cluster context you are connected to
+- kubectl get nodes : lists all the servers in cluster
+- kubectl get pods : shows the pods currently running
+- kubectl get all : provides summary of all resources
+- kubectl get pod <pod-name> -o wide : shows extra detail of a pod (ip address)
+- kubectl create -f <filename.yaml> : create a resource (pod or deployment)
+- kubectlrun <name> --image=[image] : imperative command to start a pod directly from the terminal
+- kubectl delete pod <name> : removes a specific pod
+- kubectl delete deployment <name> : removes a specific deployment
+- kubectl describe pod <name> : displays a detailed list of events and the status of an pod
+- kubectl port-forward <podname> <localport>:<podport> : Forwards a port from local machine to a port inside a pod
+

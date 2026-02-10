@@ -1,0 +1,10 @@
+Minikube commands
+- minikube start : To create and start local cluster
+- minikube status : Checks the current state of the cluster
+- minikube stop : shuts down the local cluster without deleting configurations
+- minikube delete : completely removes the cluster
+- minikube dashboard: opens a web-based interface
+- minikube ssh : Allows to enter minikube vm directly
+- minikube docker-env : Displays the env variables needed for local docker client to communicate with the docker server running inside the minikube VM.
+
+- while you use minikube to manage the cluster itself, you will use kubectl to manage the applications running on that cluster.
