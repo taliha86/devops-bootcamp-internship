@@ -3,4 +3,4 @@ commands:
 -create a github-actions-demo.yaml file under .github/workflows folder
 -write the actions
 -push changes to see if it works or not
-
+- the script has name: name of github action, on: trigger action and jobs: jobs or task to perform
