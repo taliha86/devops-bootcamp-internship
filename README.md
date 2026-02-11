@@ -52,3 +52,15 @@ Day-6 Docker
 - docker cli
 - docker desktop
 - architecture of docker engine
+
+Day-7 Github Actions
+Introduction to CI/CD :
+- What is gitops
+- what is CI
+- what is CD
+- introduction to github actions
+Project:
+- defining requirements
+- installation 
+- R&D
+ 
