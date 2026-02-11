@@ -1,1 +1,6 @@
-heyy this is to test github actions 
+heyy this is to test github actions
+commands:
+-create a github-actions-demo.yaml file under .github/workflows folder
+-write the actions
+-push changes to see if it works or not
+
