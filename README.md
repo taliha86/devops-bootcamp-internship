@@ -64,3 +64,12 @@ Project:
 - installation 
 - R&D
  
+Day-8 GitLab CI/CD
+Gitlab
+- Introduction
+- diff. Between gitlab and  github
+- hands on practice
+- create and manage pipeline
+-  Variables - secrets and  artifacts
+- Self hosted runners and SaaS runners
+- Project deployment via CI/CD pipeline using gitlab
