@@ -53,7 +53,19 @@ Day-6 Docker
 - docker desktop
 - architecture of docker engine
 
-Day-7 Github Actions
+Day-7 Introduction to kubernetes
+- Managing containers
+- Monolithic app and Microservice
+- Docker vs Kubernetes
+- Cluster and Pod
+- Architecture of Kubernetes
+- Kubernetes DNS
+- Installation
+- Running Minikube
+- Kubernetes dashboard
+- minikube & kubectl command
+
+Day-8 Github Actions
 Introduction to CI/CD :
 - What is gitops
 - what is CI
@@ -64,7 +76,7 @@ Project:
 - installation 
 - R&D
  
-Day-8 GitLab CI/CD
+Day-9 GitLab CI/CD
 Gitlab
 - Introduction
 - diff. Between gitlab and  github
@@ -73,3 +85,26 @@ Gitlab
 -  Variables - secrets and  artifacts
 - Self hosted runners and SaaS runners
 - Project deployment via CI/CD pipeline using gitlab
+
+Day-10 Cloud Computing Fundamentals
+- Architecture & Design
+- AWS Access & Management
+- Compute Services
+- Storage Services
+- Database Services
+- Networking
+- Security
+- Identity & Access
+- Application Integration
+- Organizations & Governance
+- Monitoring
+
+Day-11 Mini project
+AWS Services revision 
+- compute :EC2, lambda
+- Storage : S3, EFS, EBS
+- Networking : VPC, subnets 
+- Database : RDS, dynamodb
+
+- AWS well architected framework
+- Project 1 : Mini CI/CD Pipeline
