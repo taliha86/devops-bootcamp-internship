@@ -108,3 +108,10 @@ AWS Services revision
 
 - AWS well architected framework
 - Project 1 : Mini CI/CD Pipeline
+
+Day-12 SSL certificate
+- What is SSl
+- Why it is used
+- Encryption, Hashing and certificates
+- Client server handshake
+- SSL setup on Nginx webserver with docker containers
