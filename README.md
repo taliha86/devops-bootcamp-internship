@@ -115,3 +115,14 @@ Day-12 SSL certificate
 - Encryption, Hashing and certificates
 - Client server handshake
 - SSL setup on Nginx webserver with docker containers
+
+Day-13 Hands - on AWS : Cloud Quest
+- EC2
+- S3
+- RDS
+- Cloud Watch
+- Elastic File System
+- Amazon VPC
+- Load balancing
+- Dynamo DB
+- AWS IAM
