@@ -126,3 +126,12 @@ Day-13 Hands - on AWS : Cloud Quest
 - Load balancing
 - Dynamo DB
 - AWS IAM
+
+Day-14 Hands-On labs Revision
+- Linux Commands
+- docker containers
+- docker compose
+- kubernetes
+- hands-on labs docker
+- hands-on labs docker compose
+- hands-on labs kubernetes
