@@ -135,3 +135,11 @@ Day-14 Hands-On labs Revision
 - hands-on labs docker
 - hands-on labs docker compose
 - hands-on labs kubernetes
+
+Day-15 Revision
+- Kubernetes Installation locally
+- Hands on practice:
+ - Deployments
+ - services
+ - configmap
+ - Persistent volume
