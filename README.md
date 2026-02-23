@@ -143,3 +143,11 @@ Day-15 Revision
  - services
  - configmap
  - Persistent volume
+
+Day-16 Mastering Docker and praticing Nginx
+- Practiced Docker image creation.
+Containerized a Flask web application and exposed it using port mapping.
+- Worked with Docker volumes to implement persistent data storage.
+- Redirecting in Nginx
+- Docker Compose
+
