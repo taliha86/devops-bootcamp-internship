@@ -151,3 +151,12 @@ Containerized a Flask web application and exposed it using port mapping.
 - Redirecting in Nginx
 - Docker Compose
 
+Day-17 Kubernetes Labs
+- Basics - pods and services
+- deployment and replicas
+- Configmaps and secrets
+- Volumes & Persistent Storage
+- Services and Networking
+-  ingress and path based routing
+- Observability and debugging
+Started Subnetting and Linux course
