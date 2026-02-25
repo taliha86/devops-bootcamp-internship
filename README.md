@@ -160,3 +160,10 @@ Day-17 Kubernetes Labs
 -  ingress and path based routing
 - Observability and debugging
 Started Subnetting and Linux course
+
+Day-18 Network Course 
+- NetwDebuggingork
+- Switch, Router
+- TCP/IP and OSI
+-  how OSI  model works
+Task 1 -YAML Debugging
