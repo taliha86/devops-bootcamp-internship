@@ -167,3 +167,12 @@ Day-18 Network Course
 - TCP/IP and OSI
 -  how OSI  model works
 Task 1 -YAML Debugging
+
+Day-19 Linux Course
+- basic commands
+- services
+- processes
+- file system
+-  User  and group management
+- package management
+- managing web services
