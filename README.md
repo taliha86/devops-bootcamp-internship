@@ -176,3 +176,12 @@ Day-19 Linux Course
 -  User  and group management
 - package management
 - managing web services
+
+Day-20 Revision
+- python scripts
+GitLab:
+- create/manage projects/groups
+- create piepline in GitLab
+- Variables - Secrets, Artifacts
+- created a pipeline
+
