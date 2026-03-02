@@ -185,3 +185,8 @@ GitLab:
 - Variables - Secrets, Artifacts
 - created a pipeline
 
+Day-21 Gitlab
+- improvising gitlab
+- creating pipeline
+- automation through pipeline
+- adding workflow in nginx web server
