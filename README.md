@@ -190,3 +190,12 @@ Day-21 Gitlab
 - creating pipeline
 - automation through pipeline
 - adding workflow in nginx web server
+
+Day-22 SSL/TLS certificate
+- What are they?
+- Why we use it?
+- how to use  it  securely in gitlab ci pipeline without exposing publicly
+- ssl certificate management 
+- best practices
+- updated nginx-workflow pipeline 
+- added certificate as variable in gitlab
