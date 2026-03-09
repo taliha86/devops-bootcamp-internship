@@ -199,3 +199,16 @@ Day-22 SSL/TLS certificate
 - best practices
 - updated nginx-workflow pipeline 
 - added certificate as variable in gitlab
+
+Day-23 Gitlab with kubernetes
+- reading gitlab documentation for integration of kubernetes in gitlab
+- setting up kubernetes with gitlab
+- R&D on how kubernetes cluster is conected
+- what resources we need for integrating gitlab with kubernetes
+
+Day-24 Cloud and Infrastructure
+- understanding infra basics
+- understanding cloud architecture
+- understanding cloud adoption model
+- Course : getting started with AWS cloud essentials  on AWS skill builder
+
