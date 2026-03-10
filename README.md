@@ -212,3 +212,12 @@ Day-24 Cloud and Infrastructure
 - understanding cloud adoption model
 - Course : getting started with AWS cloud essentials  on AWS skill builder
 
+Day-25 Revisiting Docker and Docker compose:
+- conatiners
+- building image
+- writing docker file
+- using multiple containers
+- understanding docker container logs
+- attaching volumes
+- docker network
+- docker compose
