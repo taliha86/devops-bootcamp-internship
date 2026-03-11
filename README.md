@@ -221,3 +221,12 @@ Day-25 Revisiting Docker and Docker compose:
 - attaching volumes
 - docker network
 - docker compose
+
+Day-26 Revisiting Kubernetes
+-understanding Kubernetes architecture
+-creating and managing deployments
+-scaling applications using replicas
+-exposing applications using services
+-practicing common kubectl commands
+-understanding YAML manifests
+-Debugging
