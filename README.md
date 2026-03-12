@@ -230,3 +230,11 @@ Day-26 Revisiting Kubernetes
 -practicing common kubectl commands
 -understanding YAML manifests
 -Debugging
+
+Day-27 Revisiting Kubernetes advance topic
+- Networking
+- ConfigMap
+- Secrets
+- Probes - types  of probes
+- Fixing errors in YAML
+- Practicing Probes thoroughly
