@@ -238,3 +238,13 @@ Day-27 Revisiting Kubernetes advance topic
 - Probes - types  of probes
 - Fixing errors in YAML
 - Practicing Probes thoroughly
+
+Day-28 Course
+- VM's
+- setting up a VM
+- Docker Compose
+-  Docker Network
+  - types of docker networks
+   - creating user-defined  bridge network
+-  creating two networks and connecting it
+- built wordpress container with mysql  using docker compose
