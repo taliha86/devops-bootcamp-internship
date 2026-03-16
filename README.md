@@ -248,3 +248,16 @@ Day-28 Course
    - creating user-defined  bridge network
 -  creating two networks and connecting it
 - built wordpress container with mysql  using docker compose
+
+Day-29 Kubernetes Course
+-  YAML & Linting
+- Linux Commands
+- Docker & Kubernetes
+- Kubernetes Architecture Overview 
+- kube-apiserver
+- Admission Controllers
+- etcd
+- kube-scheduler
+- kube-controller-manager
+- kube-proxy & kubelet
+- CRI, CNI
