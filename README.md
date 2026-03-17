@@ -261,3 +261,14 @@ Day-29 Kubernetes Course
 - kube-controller-manager
 - kube-proxy & kubelet
 - CRI, CNI
+
+Day-30 - Google Kubernetes GKE
+- kind cluster
+- kubeadm cluster
+- Clusters & Objects
+- Images & Types
+- Containers
+- kubectl
+- Pods
+- exec in the pod
+- Debug Containers
