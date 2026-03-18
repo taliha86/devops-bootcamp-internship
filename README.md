@@ -272,3 +272,14 @@ Day-30 - Google Kubernetes GKE
 - Pods
 - exec in the pod
 - Debug Containers
+
+Day-31 Kubernetes Course:
+- Image Security: Trivy
+- Admission Control: Kyverno
+- Kube Linter
+- kube-bench
+- Static Pods
+- initContainers
+- Sidecar vs init Containers
+- Termination of Pods
+- Runtime Class
