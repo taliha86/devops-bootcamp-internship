@@ -283,3 +283,14 @@ Day-31 Kubernetes Course:
 - Sidecar vs init Containers
 - Termination of Pods
 - Runtime Class
+- Scanned my own image and solved vulnerabilities
+
+Day-32 Kubernetes  course:
+- Labels-Selectors
+- Replicaset
+- Deployments in Prod
+- Hands-on:
+  - adding, updating labels 
+ - creating replicasets
+ -  creating deployments
+ - troubleshooting mismatched labels
