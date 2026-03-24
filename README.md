@@ -294,3 +294,14 @@ Day-32 Kubernetes  course:
  - creating replicasets
  -  creating deployments
  - troubleshooting mismatched labels
+
+Day-33 Kubernetes Course:
+- Application Demo (Project)
+- Problems with Deployments
+- Services
+- Application Deployment begins
+- Service Types
+- Endpoints & Endpoint Slices
+- Ports in Services
+- Load Balancer Service
+- Ingress & Ingress Controller
