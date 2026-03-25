@@ -305,3 +305,11 @@ Day-33 Kubernetes Course:
 - Ports in Services
 - Load Balancer Service
 - Ingress & Ingress Controller
+
+Day-34 Kubernetes Course
+-Adding certificate to an app
+- Certificates & TLS
+- Let's encrypt & Cert-Manager 
+- Downsides of Ingress
+- Gateway API
+- Namespaces
