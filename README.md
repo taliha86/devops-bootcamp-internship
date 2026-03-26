@@ -313,3 +313,16 @@ Day-34 Kubernetes Course
 - Downsides of Ingress
 - Gateway API
 - Namespaces
+
+Day-35 Kubernetes Course:
+- CPU vs Memory
+- Request vs Limit
+- OOM Kill
+- QOS
+- ResourceQuotas, LimitRanges
+- Cost Optimis. with OpenCost
+- Taints & Tolerations
+- Nodename & Selector
+- TopologySpreadConstraints
+- Affinity & Anti-Affinity
+
