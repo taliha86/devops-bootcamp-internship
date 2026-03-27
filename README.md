@@ -326,3 +326,10 @@ Day-35 Kubernetes Course:
 - TopologySpreadConstraints
 - Affinity & Anti-Affinity
 
+Day-36 Kubernetes Course:
+- AuthN & AuthZ
+- kubeconfig
+- RBAC
+- Volumes & Dynamic Provisioning
+- Storage Classes
+
