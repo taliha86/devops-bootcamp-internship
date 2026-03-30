@@ -333,3 +333,11 @@ Day-36 Kubernetes Course:
 - Volumes & Dynamic Provisioning
 - Storage Classes
 
+Day-37 Kubernetes Course:
+- ConfigMaps
+- Secrets
+- Sealed Secrets
+- External Secret Operator & GCSM
+- TLS & mTLS
+-  Service Mesh
+
