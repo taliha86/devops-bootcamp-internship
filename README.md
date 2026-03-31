@@ -341,3 +341,9 @@ Day-37 Kubernetes Course:
 - TLS & mTLS
 -  Service Mesh
 
+Day-38 Kubernetes Course:
+- Monitoring : Prometheus, Grafana
+- Logging
+- Tracing & Profiling
+- eBPF based tools & OTel
+
