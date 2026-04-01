@@ -347,3 +347,14 @@ Day-38 Kubernetes Course:
 - Tracing & Profiling
 - eBPF based tools & OTel
 
+Day-39 Kubernetes Course:
+- HA Config & Quoram
+- Benchmarking with kube-bench
+- Upgrading/Downgrading Cluster
+- Runtime Security Intro
+- Security Context & CAPABILITIES
+- Seccomp
+- Tracee
+- Falco & OPA
+- Network Policies
+
