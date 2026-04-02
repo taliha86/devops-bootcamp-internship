@@ -358,3 +358,11 @@ Day-39 Kubernetes Course:
 - Falco & OPA
 - Network Policies
 
+Day-40  Kubernetes Labs:
+K8s Cluster Setup & Pod Debugging
+Scheduling, Labels & ReplicaSets
+Deployments & Release Strategies
+Services & Kubernetes Networking
+Kubernetes Security & image Scanning
+Advanced Pods, Namespaces
+
