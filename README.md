@@ -366,3 +366,12 @@ Services & Kubernetes Networking
 Kubernetes Security & image Scanning
 Advanced Pods, Namespaces
 
+Day-41 Ansible:
+- Introduciton
+- Why Ansible?
+- Ansible  playbook
+- Setting up  ansible
+- Understanding Ansible stateless nature
+- Ansible project structure
+- YAML and Ansible: Understand YAML, and its importance in Ansible - playbook
+- Ansible Handlers
