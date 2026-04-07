@@ -375,3 +375,10 @@ Day-41 Ansible:
 - Ansible project structure
 - YAML and Ansible: Understand YAML, and its importance in Ansible - playbook
 - Ansible Handlers
+
+Day-42 Ansible:
+- Ansible Variables
+- Ansible Environment Variables
+- Ansible Conditional
+- Ansible Roles and Tasks
+
