@@ -382,3 +382,10 @@ Day-42 Ansible:
 - Ansible Conditional
 - Ansible Roles and Tasks
 
+Day-43 Ansible:
+- Jinja2 Templates
+- Active-Passive Deployment Strategy                     with Ansible
+- Ansible Error Handling
+- Ansible Vault
+- Ansible practice Labs on error handling and vaults and multi environment
+
