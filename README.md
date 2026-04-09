@@ -389,3 +389,9 @@ Day-43 Ansible:
 - Ansible Vault
 - Ansible practice Labs on error handling and vaults and multi environment
 
+Day-44 Terraform:
+- Introduction to IaC
+- What is Terraform?
+- How does it work?
+- What is HCL?
+- Lab-1 HCL basics
