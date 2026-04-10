@@ -395,3 +395,16 @@ Day-44 Terraform:
 - How does it work?
 - What is HCL?
 - Lab-1 HCL basics
+
+Day-45 Terraform: 
+- Resource Attribute Reference
+- Resource Dependencies
+- Output Variables
+- Purpose of State
+- Terraform State Considerations
+- Terraform Commands
+- Mutable vs Immutable Infrastructure
+- Lifecycle Rules
+- Data Sources
+- Meta Arguments
+
