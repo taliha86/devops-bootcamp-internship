@@ -408,3 +408,7 @@ Day-45 Terraform:
 - Data Sources
 - Meta Arguments
 
+Day-46 Terraform:
+- Terraform  Labs
+- Terraform aws  labs on  killerkoda
+- Understanding Terraform modules
