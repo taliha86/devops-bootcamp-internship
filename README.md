@@ -412,3 +412,10 @@ Day-46 Terraform:
 - Terraform  Labs
 - Terraform aws  labs on  killerkoda
 - Understanding Terraform modules
+
+Day-47 Terraform:
+- Terraform modules
+- lab on modules
+- Lab on Functions and Conditional Expressions
+- understanding Terraform Workspaces
+- lab on workspaces
