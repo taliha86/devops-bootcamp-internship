@@ -419,3 +419,26 @@ Day-47 Terraform:
 - Lab on Functions and Conditional Expressions
 - understanding Terraform Workspaces
 - lab on workspaces
+
+Day-48 Infrastructure monitoring
+- Introduction
+- Why needed?
+- Tools available
+- installing prometheus
+- understanding how prometheus works locally
+- running it inside docker container
+
+Day-49 Infrastructure Monitoring
+- prometheus metrics scraping
+- metrics types
+Helm:
+- understanding Helm
+- Helm charts
+
+Day-50 Infrastructure  Monitoring
+- introduction to grafana
+- installation of grafana
+- grafana and prometheus lab
+- grafana alerts
+- how to read dashborad's common metrics: CPU, Memory, Network
+
