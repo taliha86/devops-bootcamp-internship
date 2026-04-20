@@ -442,3 +442,8 @@ Day-50 Infrastructure  Monitoring
 - grafana alerts
 - how to read dashborad's common metrics: CPU, Memory, Network
 
+Day-51 Infrastructure Monitoring
+- Grafana :  Metrics Visualization
+- Configuring Alerting
+- Panels and Visualization
+- Grafana alerting lab
