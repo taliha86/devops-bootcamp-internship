@@ -447,3 +447,12 @@ Day-51 Infrastructure Monitoring
 - Configuring Alerting
 - Panels and Visualization
 - Grafana alerting lab
+
+Day-52 Infrastructure Monitoring
+- Prometheus Architecture
+- push and pull model
+- Targets and exporters
+Project 
+- Definition
+- R&D
+- rough architecture of project
