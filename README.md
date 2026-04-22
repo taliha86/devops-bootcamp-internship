@@ -456,3 +456,13 @@ Project
 - Definition
 - R&D
 - rough architecture of project
+
+Day-53 Infrastructure Monitoring
+Grafana:
+-  Panel types:
+- Time series
+- Stat
+- Gauge
+- Table
+- Variables (dynamic dashboards)
+- grafana fundamentals lab on killercoda
