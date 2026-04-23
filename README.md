@@ -466,3 +466,9 @@ Grafana:
 - Table
 - Variables (dynamic dashboards)
 - grafana fundamentals lab on killercoda
+
+Day-53 Infrastructure Monitoring
+-  running prometheus with minikube and scraping cluster metrics
+Small project:
+- Nginx SSL with Kubernetes (Trusted mkcert CA)
+
