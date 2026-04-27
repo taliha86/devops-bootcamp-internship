@@ -472,3 +472,8 @@ Day-53 Infrastructure Monitoring
 Small project:
 - Nginx SSL with Kubernetes (Trusted mkcert CA)
 
+Day-54 Log Management:
+- What devops team needs to know?
+- introduction to Log management
+- Logging for Kubernetes: What to Log and How to Log It
+- Log Monitoring Tools
