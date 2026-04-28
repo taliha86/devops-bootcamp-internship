@@ -477,3 +477,9 @@ Day-54 Log Management:
 - introduction to Log management
 - Logging for Kubernetes: What to Log and How to Log It
 - Log Monitoring Tools
+
+Day-55 Log Management (Loki):
+- What is Loki
+- Understanding the Basic Flow
+- Installing Loki locally in minikube
+- Generate and view Some Logs
