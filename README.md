@@ -483,3 +483,10 @@ Day-55 Log Management (Loki):
 - Understanding the Basic Flow
 - Installing Loki locally in minikube
 - Generate and view Some Logs
+
+Day-56  Log Management (Loki):
+- Loki Fundamentals
+- why Loki?
+-  What is ELK
+- Loki vs ELK
+- Mini Project: Kubernetes Log Monitoring System using Loki
