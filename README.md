@@ -490,3 +490,7 @@ Day-56  Log Management (Loki):
 -  What is ELK
 - Loki vs ELK
 - Mini Project: Kubernetes Log Monitoring System using Loki
+
+Day-57 Log Management (Loki):
+-  Using  Loki Labels
+- Mini Project: User Login App with Real-time Log Monitoring (Loki + Grafana)
