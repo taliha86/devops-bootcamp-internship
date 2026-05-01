@@ -494,3 +494,10 @@ Day-56  Log Management (Loki):
 Day-57 Log Management (Loki):
 -  Using  Loki Labels
 - Mini Project: User Login App with Real-time Log Monitoring (Loki + Grafana)
+
+Day-58 Log  Management (ELK):
+-  What is ELK?
+-  What is Elastic search
+- What is Logstash
+-  What is Kibana
+- ELK  Architecture
