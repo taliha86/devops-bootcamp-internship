@@ -501,3 +501,10 @@ Day-58 Log  Management (ELK):
 - What is Logstash
 -  What is Kibana
 - ELK  Architecture
+
+Day-59 Log  Management (ELK):
+- Running Elastic search and Kibana on localhost
+- Sending Dummy Logs
+- View logs in KIbana
+- Understanding and comparison with Loki
+
