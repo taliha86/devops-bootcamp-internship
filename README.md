@@ -508,3 +508,8 @@ Day-59 Log  Management (ELK):
 - View logs in KIbana
 - Understanding and comparison with Loki
 
+Day-60 Log  Management (ELK):
+- Generate structured logs from login app
+- Set up Elasticsearch and Kibana
+- Push and explore logs in Kibana
+- Create basic log visualization dashboard
