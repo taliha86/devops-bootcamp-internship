@@ -513,3 +513,12 @@ Day-60 Log  Management (ELK):
 - Set up Elasticsearch and Kibana
 - Push and explore logs in Kibana
 - Create basic log visualization dashboard
+
+Day-61 Log Management (ELK):
+- Set up Logstash pipeline
+- Solved OOM kill issue in docker containers  
+- working on getting logs in kibana (solving error)
+
+Day-62 Log  Management (ELK):
+- Setting up ELK stack
+-  Solving 'Logs not getting reflected in kibana' error
