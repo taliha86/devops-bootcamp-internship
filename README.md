@@ -522,3 +522,9 @@ Day-61 Log Management (ELK):
 Day-62 Log  Management (ELK):
 - Setting up ELK stack
 -  Solving 'Logs not getting reflected in kibana' error
+
+Day-63 Log  Management (ELK):
+- Troubleshooting ELK  setup  errors
+- Used portainer to  Setup ELK 
+- successfully started  ELK and viewed system Logs
+
