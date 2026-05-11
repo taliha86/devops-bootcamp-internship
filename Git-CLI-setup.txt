@@ -1,0 +1,81 @@
+Step 1 — Update packages
+sudo apt update
+
+Step 2 — Install required package
+sudo apt install curl -y
+
+Step 3 — Add GitHub CLI repository key
+curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg \
+| sudo dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
+
+Step 4 — Give read permission
+sudo chmod go+r /usr/share/keyrings/githubcli-archive-keyring.gpg
+
+Step 5 — Add repository
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" \
+| sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
+
+Step 6 — Update again
+sudo apt update
+
+Step 7 — Install GitHub CLI
+sudo apt install gh -y
+
+Step 8 — Verify installation
+gh --version
+
+You should see something like:
+gh version 2.x.x
+
+Login to GitHub
+Step 9 — Start authentication
+gh auth login
+
+You’ll get interactive prompts.
+
+Choose these options
+Question 1
+What account do you want to log into?
+
+Choose:
+GitHub.com
+
+Question 2
+What is your preferred protocol for Git operations?
+
+Choose:
+HTTPS
+(SSH also works, but HTTPS is simpler initially.)
+
+Question 3
+Authenticate Git with your GitHub credentials?
+
+Choose:
+Yes
+
+Question 4
+How would you like to authenticate GitHub CLI?
+
+Choose:
+Login with a web browser
+Browser Authentication
+
+GitHub CLI will show something like:
+
+First copy your one-time code: XXXX-XXXX
+Press Enter to open github.com in your browser
+Press Enter
+Browser opens
+Login to GitHub
+Paste verification code
+Authorize GitHub CLI
+Verify Login
+
+Run:
+
+gh auth status
+
+You should see:
+
+Logged in to github.com
+Now Push Without Entering Token
