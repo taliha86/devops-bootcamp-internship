@@ -532,3 +532,5 @@ Day-64 Observability Tools:
 - Intro to Opentelemetry
 - Intro to Datadog
 -  R&D on  Aws account payment verfication failing 
+
+Day-65 
