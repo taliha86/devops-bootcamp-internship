@@ -528,3 +528,7 @@ Day-63 Log  Management (ELK):
 - Used portainer to  Setup ELK 
 - successfully started  ELK and viewed system Logs
 
+Day-64 Observability Tools:
+- Intro to Opentelemetry
+- Intro to Datadog
+-  R&D on  Aws account payment verfication failing 
