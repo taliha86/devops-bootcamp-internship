@@ -533,4 +533,10 @@ Day-64 Observability Tools:
 - Intro to Datadog
 -  R&D on  Aws account payment verfication failing 
 
-Day-65 
+Day-65 Log Management (ELK):
+-  setting up ELK with minikube
+Internship Project: 
+- understanding Aws EKS
+- AWS EKS Architecture
+- started working on  project locally
+
