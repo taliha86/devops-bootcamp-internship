@@ -540,3 +540,8 @@ Internship Project:
 - AWS EKS Architecture
 - started working on  project locally
 
+Day-66 Internship Project: 
+- Creating Structure and Architecture
+- Deploying  Nginx
+- Deploying  Apache
+- Documenting Steps
