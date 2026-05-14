@@ -545,3 +545,9 @@ Day-66 Internship Project:
 - Deploying  Nginx
 - Deploying  Apache
 - Documenting Steps
+
+Day-67 Internship Project: 
+- Setting up Monitoring Stack (Prometheus, Grafana, Alertmanager)
+- Accessing Grafana dashboard
+- Connecting Prometheus metrics
+- Understanding monitoring architecture
