@@ -551,3 +551,10 @@ Day-67 Internship Project:
 - Accessing Grafana dashboard
 - Connecting Prometheus metrics
 - Understanding monitoring architecture
+
+Day-68 Internship Project
+- Understanding Metrics
+- Collecting demo apps (Nginx and apache) Metrics
+- R&D on Exporter for application level metrics
+- setting up Nginx VTS exporter
+
