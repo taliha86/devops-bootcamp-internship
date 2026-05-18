@@ -558,3 +558,8 @@ Day-68 Internship Project
 - R&D on Exporter for application level metrics
 - setting up Nginx VTS exporter
 
+Day-69  Internship Project
+-  Nginx Metrics Scraping
+-  Creating Nginx Final Dashboard
+-  Alert manager for nginx application
+-  Created and Tested Alert Rules 
