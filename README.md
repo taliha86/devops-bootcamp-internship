@@ -563,3 +563,10 @@ Day-69  Internship Project
 -  Creating Nginx Final Dashboard
 -  Alert manager for nginx application
 -  Created and Tested Alert Rules 
+
+Day-70 Internship Project
+- Finalising Nginx Dashboard
+- Setting up Apache Server
+- Configuring Mtail exporter for Apache Server Metrics
+- Scraping Metrics of Apache Server
+
