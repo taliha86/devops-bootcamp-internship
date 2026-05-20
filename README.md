@@ -570,3 +570,7 @@ Day-70 Internship Project
 - Configuring Mtail exporter for Apache Server Metrics
 - Scraping Metrics of Apache Server
 
+Day-71 Internship Project
+- Building Apache Application Dashboard
+- Setting up Alert Rules for Apache
+
