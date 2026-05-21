@@ -574,3 +574,8 @@ Day-71 Internship Project
 - Building Apache Application Dashboard
 - Setting up Alert Rules for Apache
 
+Day-72 Internship Project
+- Understanding how we can integrate Git lab CI/CD in this Project
+- Setting up Git lab Runner locally
+- Building Git lab CI/CD
+
