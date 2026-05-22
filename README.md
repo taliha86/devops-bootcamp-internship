@@ -579,3 +579,8 @@ Day-72 Internship Project
 - Setting up Git lab Runner locally
 - Building Git lab CI/CD
 
+Day-73 Internship Project
+- Finalising Dashboards (Nginx and Apache)
+- Preparing READ ME file For git 
+- Testing Whole Project and CI/CD flow
+
