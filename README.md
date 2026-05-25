@@ -584,3 +584,8 @@ Day-73 Internship Project
 - Preparing READ ME file For git 
 - Testing Whole Project and CI/CD flow
 
+Day-74 Internship Project
+- Final touches to project 
+- Prometheus, Grafana vs ELK stack
+- Understanding Aws eks manual setup
+
