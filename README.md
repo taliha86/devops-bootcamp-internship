@@ -589,3 +589,9 @@ Day-74 Internship Project
 - Prometheus, Grafana vs ELK stack
 - Understanding Aws eks manual setup
 
+Day-75 AWS Practice:
+- Setting up AWS EKS
+Internship Project:
+- Demo workflow
+- Final Testing
+
