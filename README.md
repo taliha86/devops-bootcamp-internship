@@ -595,3 +595,7 @@ Internship Project:
 - Demo workflow
 - Final Testing
 
+Day-76 AWS practice:
+- Understanding architectue of AWS EKS
+- Solving issues of EKS cluster
+- Setting up Nodegroups
