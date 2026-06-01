@@ -599,3 +599,10 @@ Day-76 AWS practice:
 - Understanding architectue of AWS EKS
 - Solving issues of EKS cluster
 - Setting up Nodegroups
+
+Day-77 AWS practice:
+- Understanding EKS
+- Comparing EKS and ECS
+- Understanding Fargate service
+- Setting up EKS Cluster
+- Setting up Node group
