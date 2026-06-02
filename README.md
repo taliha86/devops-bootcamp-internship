@@ -606,3 +606,9 @@ Day-77 AWS practice:
 - Understanding Fargate service
 - Setting up EKS Cluster
 - Setting up Node group
+
+Day-78 Internship Project:
+- Understanding how to migrate local setup to AWS EKS
+- Setting up Networking (Vpc, subnets, route tables, internet and NAT gateway)
+- Setting up AWS EKS Cluster and Node groups 
+
