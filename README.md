@@ -612,3 +612,6 @@ Day-78 Internship Project:
 - Setting up Networking (Vpc, subnets, route tables, internet and NAT gateway)
 - Setting up AWS EKS Cluster and Node groups 
 
+Day-79 Internship Project:
+- Migrating local kube-observability project to AWS EKS
+- Solving login loop error of grafana
