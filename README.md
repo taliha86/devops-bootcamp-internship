@@ -615,3 +615,8 @@ Day-78 Internship Project:
 Day-79 Internship Project:
 - Migrating local kube-observability project to AWS EKS
 - Solving login loop error of grafana
+
+Day-80 Internship Project:
+- finding solution to access services outside ec2 and eks
+- Setting up a new Nodegroup to start from scratch 
+
