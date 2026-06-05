@@ -620,3 +620,6 @@ Day-80 Internship Project:
 - finding solution to access services outside ec2 and eks
 - Setting up a new Nodegroup to start from scratch 
 
+Day-81 Internship Project:
+- working grafana login loop issues
+- Integrating aws Load balancer with Grafana
