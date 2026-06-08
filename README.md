@@ -623,3 +623,8 @@ Day-80 Internship Project:
 Day-81 Internship Project:
 - working grafana login loop issues
 - Integrating aws Load balancer with Grafana
+
+Day-82 Internship Project:
+- cleaning up the old monitoring stack
+- Setting up Monitoring stack without helm to overcome grafana login loop error
+
