@@ -628,3 +628,9 @@ Day-82 Internship Project:
 - cleaning up the old monitoring stack
 - Setting up Monitoring stack without helm to overcome grafana login loop error
 
+Day-83 Internship Project:
+- Deployed Grafana and prometheus 
+- Accessed services using Load balancers
+- imported Dashboards for nginx and apache
+Internship Learning:
+- What is Service Mesh
