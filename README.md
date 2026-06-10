@@ -634,3 +634,12 @@ Day-83 Internship Project:
 - imported Dashboards for nginx and apache
 Internship Learning:
 - What is Service Mesh
+
+Day-84 Internship Project:
+- Setting up Alertmanager 
+- Defining Alert Rules
+- Testing Alerts are getting fired
+Internship Learning:
+- Why Service Mesh?
+- What is Istio?
+
