@@ -643,3 +643,8 @@ Internship Learning:
 - Why Service Mesh?
 - What is Istio?
 
+Day-85 Internship Project:
+- Solving alerting issues
+Internship Learning:
+- Understanding Istio Architecture
+
