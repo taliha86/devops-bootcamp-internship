@@ -648,3 +648,7 @@ Day-85 Internship Project:
 Internship Learning:
 - Understanding Istio Architecture
 
+Day-86 Internship Learning:
+- Understanding Istio Concepts
+- Understanding Side car and ambient mode
+- Installing Istio As A Sidecar
