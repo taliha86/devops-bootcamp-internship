@@ -657,3 +657,6 @@ Day-87 Internship Learning:
 - Understanding Istio Traffic Management
 - Performing Istio labs in killercoda
 
+Day-88 Internship Learning:
+- Understanding Istio Security
+- Performing labs in killercoda
