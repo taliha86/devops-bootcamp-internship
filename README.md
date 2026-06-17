@@ -660,3 +660,8 @@ Day-87 Internship Learning:
 Day-88 Internship Learning:
 - Understanding Istio Security
 - Performing labs in killercoda
+
+Day-89 Internship Learning:
+- Understanding Istio Observability
+- Three Pillars : Metrics, Distributed Traces, Access logs
+- Installing Istio locally as Ambient Mode
