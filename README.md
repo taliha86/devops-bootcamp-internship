@@ -665,3 +665,9 @@ Day-89 Internship Learning:
 - Understanding Istio Observability
 - Three Pillars : Metrics, Distributed Traces, Access logs
 - Installing Istio locally as Ambient Mode
+
+Day-90 Internship Learning:
+- Understanding Cloud Design Patterns
+- Understanding Availability
+- Techniques for Achieving High availability
+
