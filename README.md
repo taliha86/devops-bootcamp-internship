@@ -671,3 +671,8 @@ Day-90 Internship Learning:
 - Understanding Availability
 - Techniques for Achieving High availability
 
+Day-91 Internship Learning:
+- Understanding Data Management - Cloud design Pattern
+GCP:
+-Getting Started with GCP 
+- A Tour of Google Cloud Hands-on Labs
