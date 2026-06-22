@@ -676,3 +676,11 @@ Day-91 Internship Learning:
 GCP:
 -Getting Started with GCP 
 - A Tour of Google Cloud Hands-on Labs
+
+Day-92 Internship Learning:
+- Cloud design Pattern And Implementation
+GCP:
+- Virtual Machines and Network in Cloud
+Internship Project;
+- Final Testing of AWS EKS Project
+
