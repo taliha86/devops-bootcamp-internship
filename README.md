@@ -684,3 +684,9 @@ GCP:
 Internship Project;
 - Final Testing of AWS EKS Project
 
+Day-93 Internship Learning:
+- Cloud design - Management and monitoring
+GCP:
+- Google Cloud Storage Options
+Internship Project:
+- AWS EKS Project Demo
