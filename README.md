@@ -690,3 +690,11 @@ GCP:
 - Google Cloud Storage Options
 Internship Project:
 - AWS EKS Project Demo
+
+Day-94 Internship Learning:
+- What is GitOps?
+GCP:
+-  Containers in Cloud
+AWS:
+- Understanding Codepipeline service
+
