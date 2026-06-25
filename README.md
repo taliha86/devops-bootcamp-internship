@@ -698,3 +698,10 @@ GCP:
 AWS:
 - Understanding Codepipeline service
 
+Day-95 Internship Learning:
+- Git Ops Maturity Model
+GCP:
+-  Application in the Cloud 
+AWS Skill Builder:
+- AWS lambda Foundations
+
