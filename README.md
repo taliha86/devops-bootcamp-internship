@@ -705,3 +705,10 @@ GCP:
 AWS Skill Builder:
 - AWS lambda Foundations
 
+Day-96 Internship Learning:
+- What is ArgoCD?
+GCP:
+- Implementing Cloud Load Balancing for Compute Engine
+AWS Skill Builder:
+- Amazon API Gateway for Serverless Applications
+
