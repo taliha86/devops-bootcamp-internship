@@ -712,3 +712,9 @@ GCP:
 AWS Skill Builder:
 - Amazon API Gateway for Serverless Applications
 
+Day-97 GCP:
+- Elastic apps 
+- Cloud Run Functions
+AWS Skill Builder:
+- Amazon DynamoDB for Serverless Architectures
+
