@@ -718,3 +718,9 @@ Day-97 GCP:
 AWS Skill Builder:
 - Amazon DynamoDB for Serverless Architectures
 
+Day-98 GCP:
+- Infrastructure in Google Cloud
+- Storage options in cloud
+- Structured and Unstructured Data Storage
+AWS Skill Builder:
+- AWS Well Architect Framework
