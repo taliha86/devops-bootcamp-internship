@@ -724,3 +724,10 @@ Day-98 GCP:
 - Structured and Unstructured Data Storage
 AWS Skill Builder:
 - AWS Well Architect Framework
+
+Day-99 GCP:
+- Unstructured Storage using Cloud Storage
+- SQL Managed Service
+- Spanner as a managed service
+AWS Skill Builder:
+- AWS Global Infrastructure : Data centers, Availability Zones, Regions  
