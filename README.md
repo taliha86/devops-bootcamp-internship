@@ -731,3 +731,12 @@ Day-99 GCP:
 - Spanner as a managed service
 AWS Skill Builder:
 - AWS Global Infrastructure : Data centers, Availability Zones, Regions  
+
+Day-100 GCP:
+- Overview of AlloyDB
+- Overviw of NoSQL managed services  (FireStore, BigTable)
+
+AWS Skill Builder
+- AWS Shared Responsibility
+- Networking Fundamentals
+- Compute as a Service
