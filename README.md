@@ -740,3 +740,10 @@ AWS Skill Builder
 - AWS Shared Responsibility
 - Networking Fundamentals
 - Compute as a Service
+
+Day-101 GCP:
+- The purpose of API
+- Cloud Endpoints
+Terraform:
+- Revisiting Terraform
+- 3 Fundamental blocks of Terraform
