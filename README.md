@@ -747,3 +747,10 @@ Day-101 GCP:
 Terraform:
 - Revisiting Terraform
 - 3 Fundamental blocks of Terraform
+
+Day-102 GCP:
+- Apigee API management
+- Pub / Sub
+Revisiting Terraform:
+- Configuration language
+- Terraform and Provider block 
