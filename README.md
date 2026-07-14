@@ -754,3 +754,10 @@ Day-102 GCP:
 Revisiting Terraform:
 - Configuration language
 - Terraform and Provider block 
+
+Day-103 GCP:
+- Security in Cloud
+- The Shared security model
+Revisiting Terraform:
+- Resource Block
+- Creating a resource locally
