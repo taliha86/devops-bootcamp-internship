@@ -761,3 +761,10 @@ Day-103 GCP:
 Revisiting Terraform:
 - Resource Block
 - Creating a resource locally
+
+Day-104 GCP:
+- Encryption
+- Authentication and Authorization with IAM
+AWS Skill Builder:
+- Compute in the Cloud
+- Auto Scaling and Load Balancing
