@@ -776,3 +776,10 @@ AWS Skill Builder:
 - AWS Lambda
 - Containers and Orchestration on AWS
 
+Day-106 GCP:
+- Networking in the cloud
+- Virtual Private Cloud (VPCs)
+- The google Cloud network
+AWS Skill Builder:
+- Diving Deeper into AWS Global Infrastructure
+- Infrastructure and automation
