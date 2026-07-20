@@ -783,3 +783,13 @@ Day-106 GCP:
 AWS Skill Builder:
 - Diving Deeper into AWS Global Infrastructure
 - Infrastructure and automation
+
+Day-107 GCP:
+- Routes and firewall rules in cloud
+- Multiple VPC network
+- Building hybrid clouds
+- Load Balancing options
+AWS Skill Builder:
+- Networking
+- Virtual Private Cloud
+- Virtual Private gateways
