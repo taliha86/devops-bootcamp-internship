@@ -793,3 +793,10 @@ AWS Skill Builder:
 - Networking
 - Virtual Private Cloud
 - Virtual Private gateways
+
+Day-108 GCP:
+- Infrastructure as a Code (IaC)
+- Monitoring and Managing services
+- Google Cloud Observability
+AWS Skill Builder:
+- Subnets, security groups and NACLs
