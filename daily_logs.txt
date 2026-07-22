@@ -800,3 +800,11 @@ Day-108 GCP:
 - Google Cloud Observability
 AWS Skill Builder:
 - Subnets, security groups and NACLs
+
+Day-109 GCP:
+- Introduction to big Data managed services in the Cloud
+- Managed service for Apache Spark
+- Build extract, transform , and load pipelines using dataflow
+AWS Skill Builder:
+- Global Networking (Route 53, amazon Cloudfront)
+- Global Architectures (VPN, AWS direct connect)
