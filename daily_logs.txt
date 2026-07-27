@@ -808,3 +808,22 @@ Day-109 GCP:
 AWS Skill Builder:
 - Global Networking (Route 53, amazon Cloudfront)
 - Global Architectures (VPN, AWS direct connect)
+
+Day-110 GCP:
+- Introduction to ML in Cloud
+AWS Skill Builder:
+- Introduction to Storage
+- Block Storage
+- Object Storage
+- File Storage
+- Additional Storage Solutions
+
+Day-111 CI/CD pipeline:
+- Basics of Pipeline
+- Trigger
+- Jobs
+AWS Skill Builder:
+- Relational Database Services
+- NoSQL Database Services
+- In-Memory Caching Services
+- Additional Database Services
