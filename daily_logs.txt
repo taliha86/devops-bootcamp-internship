@@ -827,3 +827,12 @@ AWS Skill Builder:
 - NoSQL Database Services
 - In-Memory Caching Services
 - Additional Database Services
+
+Day-112 CI/CD pipeline:
+- Testing a part of CI
+- How the pipeline flows?
+AWS Skill Builder:
+- AI/ML on AWS
+- AWS AI/ML Solutions
+- AWS Generative AI Solutions
+- Data Pipelines on AWS
