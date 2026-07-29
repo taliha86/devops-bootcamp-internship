@@ -836,3 +836,13 @@ AWS Skill Builder:
 - AWS AI/ML Solutions
 - AWS Generative AI Solutions
 - Data Pipelines on AWS
+
+Day-113 CI/CD Pipeline:
+- Writing Pipeline to Deploy website to AWS S3
+- Attaching Cloudfront to S3
+AWS Skill Builder:
+- AWS Security Controls
+- Protecting Data
+- Additional Security Resources
+GCP:
+- Multiple VPC networks
