@@ -846,3 +846,11 @@ AWS Skill Builder:
 - Additional Security Resources
 GCP:
 - Multiple VPC networks
+
+Day-114 CI/CD Pipeline:
+- CloudFront function for url rewrite
+- Attaching Cloudfront to S3
+AWS Skill Builder:
+- Monitoring and Compliance Services
+GCP:
+- Configuring Load Balancer with Google Cloud Armor
