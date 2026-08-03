@@ -854,3 +854,21 @@ AWS Skill Builder:
 - Monitoring and Compliance Services
 GCP:
 - Configuring Load Balancer with Google Cloud Armor
+
+Day-115 AWS Skill Builder:
+- AWS Pricing Concepts
+- AWS Pricing and Billing Services
+- Cost Optimization
+- AWS Support Plan
+GCP:
+- Google Threat Intelligence
+- Incident Response
+
+Day-116 AWS Skill Builder:
+- AWS Cloud Adoption Framework
+- Seven Migration Strategies
+- Migration Services and Tools
+- Database Migration
+- Introduction to Step Functions
+GCP:
+- Lab on Storage Bucket
